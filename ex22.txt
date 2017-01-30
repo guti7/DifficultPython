@@ -1,0 +1,27 @@
+# Exercise 22: What do you know so far?
+
+# Review what you have learned so far.
+
+List of symbols:
+print
+comments #
+raw_input
+import
+modules
+scripts
+definitions
+format strings
+escape sequences
+pydoc
+python interactive
+return
+colon
+indentation
+assignment
+basic arithmetic
+standard input
+standard output
+file
+command line arguments
+reading from Files
+writing to Files
