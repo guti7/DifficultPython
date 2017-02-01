@@ -12,7 +12,7 @@ def sort_words(words):
     """Sorts the words."""
     return sorted(words)
 
-def print_first_word(words):
+# def print_first_word(words)
     """Prints the first word after popping it off."""
     word = words.pop(0)
     print word # pop() with no argument removes and returns the last item
